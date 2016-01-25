@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 
-public class Arvoredec extends Node{
+public class Decision extends Node{
 	
     static int classIndex,nLines;
     //representa a àrvore de decisão. O 1º campo diz respeito ao pai do nó 'Node'
